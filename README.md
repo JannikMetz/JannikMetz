@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JannikMetz
+- 🌱 I’m currently studying Computer Science at DHBW Karlsruhe
+- 📫 How to reach me ...
+- 😄 Pronouns: He/Him
